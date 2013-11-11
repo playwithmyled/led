@@ -1,4 +1,4 @@
 led
 ===
 
-Blick Leds c++ script for Arduino
+Blink Leds c++ script for Arduino
